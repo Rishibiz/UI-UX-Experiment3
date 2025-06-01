@@ -9,19 +9,19 @@ Develop and incorporate required changes in the analysed apps/websites.
 
 ## Algorithm:
 
-Select 2–3 Competing Apps or Websites for Evaluation
+1.Select 2–3 Competing Apps or Websites for Evaluation
 
-Conduct Heuristic Evaluation Using Nielsen’s 10 Usability Heuristics
+2.Conduct Heuristic Evaluation Using Nielsen’s 10 Usability Heuristics
 
-Document UX Strengths and Weaknesses of Each App/Website
+3.Document UX Strengths and Weaknesses of Each App/Website
 
-Compare the User Experience Across the Selected Competitors
+4.Compare the User Experience Across the Selected Competitors
 
-Identify Usability Issues and Recommend Improvements
+5.Identify Usability Issues and Recommend Improvements
 
-Develop and Incorporate Required UX/UI Changes
+6.Develop and Incorporate Required UX/UI Changes
 
-Present the Refined Designs and Justify Modifications
+7.Present the Refined Designs and Justify Modifications
 
 ## Output:
 ```
